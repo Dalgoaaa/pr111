@@ -1,0 +1,34 @@
+html,
+body {
+    margin: 0;
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+
+}
+body{
+    min-width: 430px;
+    border: 3px dashed #3f0;
+}
+main{
+    background-color: #f3faff;
+}
+nav{
+    border: 3px dashed #ff00f2;
+    background-color: #f3faff;
+}
+header {
+    border: 3px dashed #ff00f2;
+    background-color: #f3faff;
+}
+section{
+    border: 3px dashed #ff00f2;
+}
+p{
+    border: 3px dashed #ff00f2;
+}
+footer {
+    border: 3px dashed #ff00f2;
+    background-color: #f3faff;
+}
+
